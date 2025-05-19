@@ -4,6 +4,29 @@ This project provides easy-to-use Google Colab notebooks for running cutting-edg
 
 Whether you're experimenting, researching, or just playing around with voice synthesis, these notebooks make it simple to try out top TTS models without worrying about setup or hardware.
 
+## Colab Notebooks
+### Edge TTS
+
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Troyanovsky/awesome-TTS-Colab/blob/main/Edge_TTS.ipynb)
+- [GitHub Link](https://github.com/rany2/edge-tts)
+- Capabilities: Text-to-speech, Predefined Voices
+- **Note:** Not an open-sourced model
+
+### xTTS
+
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Troyanovsky/awesome-TTS-Colab/blob/main/xTTS.ipynb)
+- [GitHub Link](https://github.com/idiap/coqui-ai-TTS) (Original [Coqui TTS](https://github.com/coqui-ai/TTS) is no longer maintained as Coqui shut down in 2023.)
+- [Model Link](https://huggingface.co/coqui/XTTS-v2)
+- Capabilities: Text-to-speech, Predefined Voices, Multi-lingual, Voice Cloning from Audio
+- Languages supported: English (en), Spanish (es), French (fr), German (de), Italian (it), Portuguese (pt), Polish (pl), Turkish (tr), Russian (ru), Dutch (nl), Czech (cs), Arabic (ar), Chinese (zh-cn), Japanese (ja), Hungarian (hu), Korean (ko) Hindi (hi)
+
+### OpenVoice V2 (Voice Conversion)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Troyanovsky/awesome-TTS-Colab/blob/main/OpenVoice_V2.ipynb)
+- GitHub Link: [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) (Used for voice conversion based on reference voice), [coqui-tts](https://github.com/idiap/coqui-ai-TTS) (Use as base TTS model)
+- [Model Link](https://huggingface.co/myshell-ai/OpenVoiceV2)
+- Capabilities: Text-to-speech, Multi-lingual, Voice Cloning from Audio
+- Languages supported: English (en), Spanish (es), French (fr), Chinese (zh-cn), Japanese (ja), Korean (ko) 
+
 ## 📊 Picking TTS Models?
 
 Curious how different TTS models stack up before picking which one to run?

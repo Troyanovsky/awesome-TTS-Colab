@@ -27,6 +27,13 @@ Whether you're experimenting, researching, or just playing around with voice syn
 - Capabilities: Text-to-speech, Multi-lingual, Voice Cloning from Audio
 - Languages supported: English (en), Spanish (es), French (fr), Chinese (zh-cn), Japanese (ja), Korean (ko) 
 
+### Parler TTS
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Troyanovsky/awesome-TTS-Colab/blob/main/Parler_TTS.ipynb)
+- [GitHub Link](https://github.com/huggingface/parler-tts)
+- [Model Link](https://huggingface.co/parler-tts/parler-tts-mini-multilingual-v1.1/)
+- Capabilities: Text-to-speech, Multi-lingual, Guided generation
+- Languages supported: English, French, Spanish, Portuguese, Polish, German, Italian and Dutch
+
 ## 📊 Picking TTS Models?
 
 Curious how different TTS models stack up before picking which one to run?

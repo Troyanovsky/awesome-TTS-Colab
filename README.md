@@ -35,12 +35,17 @@ Whether you're experimenting, researching, or just playing around with voice syn
 - Languages supported: English, French, Spanish, Portuguese, Polish, German, Italian and Dutch
 
 ### Kokoro TTS
-### Kokoro TTS
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Troyanovsky/awesome-TTS-Colab/blob/main/kokoro_TTS.ipynb)
 - [GitHub Link](https://github.com/hexgrad/kokoro)
 - [Model Link](https://huggingface.co/hexgrad/Kokoro-82M)
 - Capabilities: Text-to-speech, Multi-lingual, Predefined Voices
 - Languages supported: American English (a), British English (b), Spanish (es), French (fr-fr), Hindi (hi), Italian (it), Japanese (ja), Brazilian Portuguese (pt-br), Mandarin Chinese (zh)
+
+### Dia 1.6B TTS
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Troyanovsky/awesome-TTS-Colab/blob/main/Dia_TTS.ipynb)
+- [GitHub Link](https://github.com/nari-labs/dia)
+- [Model Link](https://huggingface.co/nari-labs/Dia-1.6B)
+- Capabilities: Text-to-speech, Conversational, Non-verbal sounds, Voice Cloning from Audio
 
 ## 📊 Picking TTS Models?
 

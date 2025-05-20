@@ -47,6 +47,13 @@ Whether you're experimenting, researching, or just playing around with voice syn
 - [Model Link](https://huggingface.co/nari-labs/Dia-1.6B)
 - Capabilities: Text-to-speech, Conversational, Non-verbal sounds, Voice Cloning from Audio
 
+### Auralis xTTS V2
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Troyanovsky/awesome-TTS-Colab/blob/main/Auralis_xTTS.ipynb)
+- [GitHub Link](https://github.com/astramind-ai/Auralis)
+- [Model Link](https://huggingface.co/AstraMindAI/xttsv2)
+- Capabilities: Text-to-speech, Predefined Voices, Multi-lingual, Voice Cloning
+- Languages supported: English (en), Spanish (es), French (fr), German (de), Italian (it), Portuguese (pt), Polish (pl), Turkish (tr), Russian (ru), Dutch (nl), Czech (cs), Arabic (ar), Chinese (zh-cn), Japanese (ja), Hungarian (hu), Korean (ko) Hindi (hi)
+
 ## 📊 Picking TTS Models?
 
 Curious how different TTS models stack up before picking which one to run?

@@ -1,5 +1,7 @@
 # 🗣️ Awesome TTS Models in Google Colab
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 This project provides easy-to-use Google Colab notebooks for running cutting-edge Text-to-Speech (TTS) models — all powered by free GPUs from Google Colab.
 
 Whether you're experimenting, researching, or just playing around with voice synthesis, these notebooks make it simple to try out top TTS models without worrying about setup or hardware.
@@ -19,6 +21,7 @@ Whether you're experimenting, researching, or just playing around with voice syn
 - [Model Link](https://huggingface.co/coqui/XTTS-v2)
 - Capabilities: Text-to-speech, Predefined Voices, Multi-lingual, Voice Cloning from Audio
 - Languages supported: English (en), Spanish (es), French (fr), German (de), Italian (it), Portuguese (pt), Polish (pl), Turkish (tr), Russian (ru), Dutch (nl), Czech (cs), Arabic (ar), Chinese (zh-cn), Japanese (ja), Hungarian (hu), Korean (ko) Hindi (hi)
+- Reason for recommendation: High-quality generation with multi-lingual support and voice cloning from short audio clips.
 
 ### OpenVoice V2 (Voice Conversion)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Troyanovsky/awesome-TTS-Colab/blob/main/OpenVoice_V2.ipynb)
@@ -40,12 +43,14 @@ Whether you're experimenting, researching, or just playing around with voice syn
 - [Model Link](https://huggingface.co/hexgrad/Kokoro-82M)
 - Capabilities: Text-to-speech, Multi-lingual, Predefined Voices
 - Languages supported: American English (a), British English (b), Spanish (es), French (fr-fr), Hindi (hi), Italian (it), Japanese (ja), Brazilian Portuguese (pt-br), Mandarin Chinese (zh)
+- Reason for recommendation: Very high-quality generation with multi-lingual support.
 
 ### Dia 1.6B TTS
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Troyanovsky/awesome-TTS-Colab/blob/main/Dia_TTS.ipynb)
 - [GitHub Link](https://github.com/nari-labs/dia)
 - [Model Link](https://huggingface.co/nari-labs/Dia-1.6B)
 - Capabilities: Text-to-speech, Conversational, Non-verbal sounds, Voice Cloning from Audio
+- Reasons for recommendation: High-quality generation with conversational and non-verbal sounds.
 
 ### Auralis xTTS V2
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Troyanovsky/awesome-TTS-Colab/blob/main/Auralis_xTTS.ipynb)
@@ -67,6 +72,22 @@ Check out these Hugging Face Spaces with live performance leaderboards:
 
 Have a favorite TTS model you'd like to see added to this project?  
 [Open an issue]([https://github.com/yourusername/yourrepo/issues](https://github.com/Troyanovsky/awesome-TTS-Colab/issues)) or start a discussion to request it!
+
+## 🤝 Contributing
+
+Contributions to this project are welcome and appreciated! Here's how you can contribute:
+
+1. **Create a Google Colab notebook** for a TTS model following the format of existing notebooks
+2. **Test your notebook** thoroughly to ensure it works properly with Google Colab's free GPU
+3. **Fork this repository** and add your notebook to the project
+4. **Update the README.md** to include information about the model following the existing format:
+   - Add a section with the model name
+   - Include the Colab badge linking to your notebook
+   - Add GitHub and model links
+   - List capabilities and supported languages (if multi-lingual)
+5. **Open a Pull Request** with your changes
+
+By contributing, you help make advanced TTS technology more accessible to everyone!
 
 ## 📌 Disclaimer
 

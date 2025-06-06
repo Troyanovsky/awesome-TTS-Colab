@@ -59,6 +59,12 @@ Whether you're experimenting, researching, or just playing around with voice syn
 - Capabilities: Text-to-speech, Predefined Voices, Multi-lingual, Voice Cloning
 - Languages supported: English (en), Spanish (es), French (fr), German (de), Italian (it), Portuguese (pt), Polish (pl), Turkish (tr), Russian (ru), Dutch (nl), Czech (cs), Arabic (ar), Chinese (zh-cn), Japanese (ja), Hungarian (hu), Korean (ko) Hindi (hi)
 
+### Chatterbox TTS
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Troyanovsky/awesome-TTS-Colab/blob/main/chatterbox_TTS.ipynb)
+- [GitHub Link](https://github.com/resemble-ai/chatterbox)
+- [Model Link](https://huggingface.co/ResembleAI/chatterbox)
+- Capabilities: Text-to-speech, Emotion Exaggeration Control, Voice Cloning, Watermarked Outputs
+
 ## 📊 Picking TTS Models?
 
 Curious how different TTS models stack up before picking which one to run?

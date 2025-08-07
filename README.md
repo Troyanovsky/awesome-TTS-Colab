@@ -65,6 +65,12 @@ Whether you're experimenting, researching, or just playing around with voice syn
 - [Model Link](https://huggingface.co/ResembleAI/chatterbox)
 - Capabilities: Text-to-speech, Emotion Exaggeration Control, Voice Cloning, Watermarked Outputs
 
+### Piper TTS
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Troyanovsky/awesome-TTS-Colab/blob/main/piper1_gpl_TTS.ipynb)
+- [GitHub Link](https://github.com/OHF-Voice/piper1-gpl)
+- [Model Link](https://huggingface.co/rhasspy/piper-voices)
+- Capabilities: Text-to-speech, Multi-language support (20+ languages), Multiple voices, Customizable voices (training support)
+
 ## 📊 Picking TTS Models?
 
 Curious how different TTS models stack up before picking which one to run?
@@ -78,6 +84,15 @@ Check out these Hugging Face Spaces with live performance leaderboards:
 
 Have a favorite TTS model you'd like to see added to this project?  
 [Open an issue]([https://github.com/yourusername/yourrepo/issues](https://github.com/Troyanovsky/awesome-TTS-Colab/issues)) or start a discussion to request it!
+
+## 👀 You Might Be Interested In
+
+If you're interested in running Large Language Models (LLMs) on consumer-level local machines, check out this related project:
+
+- [Local-LLM-Comparison-Colab-UI](https://github.com/Troyanovsky/Local-LLM-Comparison-Colab-UI):  
+  A collection of Google Colab notebooks for comparing and running various LLMs easily, designed for use on local hardware.  
+  Perfect for exploring and benchmarking LLMs without needing powerful cloud resources!
+
 
 ## 🤝 Contributing
 

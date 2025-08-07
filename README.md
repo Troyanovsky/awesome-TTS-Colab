@@ -71,6 +71,14 @@ Whether you're experimenting, researching, or just playing around with voice syn
 - [Model Link](https://huggingface.co/rhasspy/piper-voices)
 - Capabilities: Text-to-speech, Multi-language support (20+ languages), Multiple voices, Customizable voices (training support)
 
+### Kitten TTS
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Troyanovsky/awesome-TTS-Colab/blob/main/Kitten_TTS_Nano.ipynb)
+- [GitHub Link](https://github.com/KittenML/KittenTTS)
+- [Model Link (Nano Preview)](https://huggingface.co/KittenML/kitten-tts-nano-0.1)
+- Capabilities: Text-to-speech, Multiple Expressive Voices, CPU-compatible, Ultra-small (25MB, 15M params)
+- Reason for recommendation: Extremely lightweight and fast TTS model suitable for edge devices and real-time applications. Open-source and easy to run locally.
+
+
 ## 📊 Picking TTS Models?
 
 Curious how different TTS models stack up before picking which one to run?

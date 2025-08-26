@@ -78,6 +78,14 @@ Whether you're experimenting, researching, or just playing around with voice syn
 - Capabilities: Text-to-speech, Multiple Expressive Voices, CPU-compatible, Ultra-small (25MB, 15M params)
 - Reason for recommendation: Extremely lightweight and fast TTS model suitable for edge devices and real-time applications. Open-source and easy to run locally.
 
+### VibeVoice 1.5B TTS
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Troyanovsky/awesome-TTS-Colab/blob/main/VibeVoice%201.5B%20TTS.ipynb)
+- [GitHub Link](https://github.com/microsoft/VibeVoice)
+- [Model Link](https://huggingface.co/microsoft/VibeVoice-1.5B)
+- Capabilities: Context-Aware Expression, Multi-lingual conversation, Podcast with Background Music, Long Conversational Speech
+- Languages supported: English, Chinese
+- Reasons for recommendation: Can generate long-form (up to 90 mins), multi-speaker (up to 4) expressive, conversational audio.
+
 
 ## 📊 Picking TTS Models?
 

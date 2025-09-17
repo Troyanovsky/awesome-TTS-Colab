@@ -86,6 +86,13 @@ Whether you're experimenting, researching, or just playing around with voice syn
 - Languages supported: English, Chinese
 - Reasons for recommendation: Can generate long-form (up to 90 mins), multi-speaker (up to 4) expressive, conversational audio.
 
+### Index TTS V2
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Troyanovsky/awesome-TTS-Colab/blob/main/Index_TTS_V2.ipynb)
+- [GitHub Link](https://github.com/index-tts/index-tts)
+- [Model Link](https://huggingface.co/IndexTeam/IndexTTS-2)
+- Capabilities: Emotion-Controlled Speech, Duration-Specific Generation, Zero-Shot Timbre Cloning, Multi-Modal Emotion Guidance, High-Stability Emotional Speech
+- Reasons for recommendation: Great voice-cloning capability with emotional steering.
+
 
 ## 📊 Picking TTS Models?
 

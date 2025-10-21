@@ -93,6 +93,13 @@ Whether you're experimenting, researching, or just playing around with voice syn
 - Capabilities: Emotion-Controlled Speech, Duration-Specific Generation, Zero-Shot Timbre Cloning, Multi-Modal Emotion Guidance, High-Stability Emotional Speech
 - Reasons for recommendation: Great voice-cloning capability with emotional steering.
 
+### Neu TTS Air
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Troyanovsky/awesome-TTS-Colab/blob/main/Neu_TTS_Air.ipynb)
+- [GitHub Link](https://github.com/neuphonic/neutts-air)
+- [Model Link](https://huggingface.co/neuphonic/neutts-air)
+- Capabilities: Real-Time On-Device Speech, Ultra-Realistic Human-Like Voices, Instant Voice Cloning (3s sample), Embedded-Optimized GGUF Format, Secure & Watermarked Output
+- Reasons for recommendation: Super-realistic, on-device text-to-speech (TTS) language model with instant voice cloning.
+
 
 ## 📊 Picking TTS Models?
 

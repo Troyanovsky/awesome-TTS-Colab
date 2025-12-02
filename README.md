@@ -9,6 +9,7 @@ Whether you're experimenting, researching, or just playing around with voice syn
 ## Colab Notebooks
 ### Edge TTS
 
+- Added at 2025-04-25
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Troyanovsky/awesome-TTS-Colab/blob/main/Edge_TTS.ipynb)
 - [GitHub Link](https://github.com/rany2/edge-tts)
 - Capabilities: Text-to-speech, Predefined Voices
@@ -16,6 +17,7 @@ Whether you're experimenting, researching, or just playing around with voice syn
 
 ### xTTS
 
+- Added at 2025-05-19
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Troyanovsky/awesome-TTS-Colab/blob/main/xTTS.ipynb)
 - [GitHub Link](https://github.com/idiap/coqui-ai-TTS) (Original [Coqui TTS](https://github.com/coqui-ai/TTS) is no longer maintained as Coqui shut down in 2023.)
 - [Model Link](https://huggingface.co/coqui/XTTS-v2)
@@ -24,6 +26,7 @@ Whether you're experimenting, researching, or just playing around with voice syn
 - Reason for recommendation: High-quality generation with multi-lingual support and voice cloning from short audio clips.
 
 ### OpenVoice V2 (Voice Conversion)
+- Added at 2025-05-19
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Troyanovsky/awesome-TTS-Colab/blob/main/OpenVoice_V2.ipynb)
 - GitHub Link: [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) (Used for voice conversion based on reference voice), [coqui-tts](https://github.com/idiap/coqui-ai-TTS) (Use as base TTS model)
 - [Model Link](https://huggingface.co/myshell-ai/OpenVoiceV2)
@@ -31,6 +34,7 @@ Whether you're experimenting, researching, or just playing around with voice syn
 - Languages supported: English (en), Spanish (es), French (fr), Chinese (zh-cn), Japanese (ja), Korean (ko) 
 
 ### Parler TTS
+- Added at 2025-05-19
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Troyanovsky/awesome-TTS-Colab/blob/main/Parler_TTS.ipynb)
 - [GitHub Link](https://github.com/huggingface/parler-tts)
 - [Model Link](https://huggingface.co/parler-tts/parler-tts-mini-multilingual-v1.1/)
@@ -38,6 +42,7 @@ Whether you're experimenting, researching, or just playing around with voice syn
 - Languages supported: English, French, Spanish, Portuguese, Polish, German, Italian and Dutch
 
 ### Kokoro TTS
+- Added at 2025-05-19
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Troyanovsky/awesome-TTS-Colab/blob/main/kokoro_TTS.ipynb)
 - [GitHub Link](https://github.com/hexgrad/kokoro)
 - [Model Link](https://huggingface.co/hexgrad/Kokoro-82M)
@@ -46,6 +51,7 @@ Whether you're experimenting, researching, or just playing around with voice syn
 - Reason for recommendation: Very high-quality generation with multi-lingual support.
 
 ### Dia 1.6B TTS
+- Added at 2025-05-19
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Troyanovsky/awesome-TTS-Colab/blob/main/Dia_TTS.ipynb)
 - [GitHub Link](https://github.com/nari-labs/dia)
 - [Model Link](https://huggingface.co/nari-labs/Dia-1.6B)
@@ -53,6 +59,7 @@ Whether you're experimenting, researching, or just playing around with voice syn
 - Reasons for recommendation: High-quality generation with conversational and non-verbal sounds.
 
 ### Auralis xTTS V2
+- Added at 2025-05-20
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Troyanovsky/awesome-TTS-Colab/blob/main/Auralis_xTTS.ipynb)
 - [GitHub Link](https://github.com/astramind-ai/Auralis)
 - [Model Link](https://huggingface.co/AstraMindAI/xttsv2)
@@ -60,18 +67,21 @@ Whether you're experimenting, researching, or just playing around with voice syn
 - Languages supported: English (en), Spanish (es), French (fr), German (de), Italian (it), Portuguese (pt), Polish (pl), Turkish (tr), Russian (ru), Dutch (nl), Czech (cs), Arabic (ar), Chinese (zh-cn), Japanese (ja), Hungarian (hu), Korean (ko) Hindi (hi)
 
 ### Chatterbox TTS
+- Added at 2025-06-06
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Troyanovsky/awesome-TTS-Colab/blob/main/chatterbox_TTS.ipynb)
 - [GitHub Link](https://github.com/resemble-ai/chatterbox)
 - [Model Link](https://huggingface.co/ResembleAI/chatterbox)
 - Capabilities: Text-to-speech, Emotion Exaggeration Control, Voice Cloning, Watermarked Outputs
 
 ### Piper TTS
+- Added at 2025-08-07
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Troyanovsky/awesome-TTS-Colab/blob/main/piper1_gpl_TTS.ipynb)
 - [GitHub Link](https://github.com/OHF-Voice/piper1-gpl)
 - [Model Link](https://huggingface.co/rhasspy/piper-voices)
 - Capabilities: Text-to-speech, Multi-language support (20+ languages), Multiple voices, Customizable voices (training support)
 
 ### Kitten TTS
+- Added at 2025-08-07
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Troyanovsky/awesome-TTS-Colab/blob/main/Kitten_TTS_Nano.ipynb)
 - [GitHub Link](https://github.com/KittenML/KittenTTS)
 - [Model Link (Nano Preview)](https://huggingface.co/KittenML/kitten-tts-nano-0.1)
@@ -79,6 +89,7 @@ Whether you're experimenting, researching, or just playing around with voice syn
 - Reason for recommendation: Extremely lightweight and fast TTS model suitable for edge devices and real-time applications. Open-source and easy to run locally.
 
 ### VibeVoice 1.5B TTS
+- Added at 2025-08-26
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Troyanovsky/awesome-TTS-Colab/blob/main/VibeVoice%201.5B%20TTS.ipynb)
 - [GitHub Link](https://github.com/microsoft/VibeVoice)
 - [Model Link](https://huggingface.co/microsoft/VibeVoice-1.5B)
@@ -87,6 +98,7 @@ Whether you're experimenting, researching, or just playing around with voice syn
 - Reasons for recommendation: Can generate long-form (up to 90 mins), multi-speaker (up to 4) expressive, conversational audio.
 
 ### Index TTS V2
+- Added at 2025-09-17
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Troyanovsky/awesome-TTS-Colab/blob/main/Index_TTS_V2.ipynb)
 - [GitHub Link](https://github.com/index-tts/index-tts)
 - [Model Link](https://huggingface.co/IndexTeam/IndexTTS-2)
@@ -94,11 +106,22 @@ Whether you're experimenting, researching, or just playing around with voice syn
 - Reasons for recommendation: Great voice-cloning capability with emotional steering.
 
 ### Neu TTS Air
+- Added at 2025-10-21
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Troyanovsky/awesome-TTS-Colab/blob/main/Neu_TTS_Air.ipynb)
 - [GitHub Link](https://github.com/neuphonic/neutts-air)
 - [Model Link](https://huggingface.co/neuphonic/neutts-air)
 - Capabilities: Real-Time On-Device Speech, Ultra-Realistic Human-Like Voices, Instant Voice Cloning (3s sample), Embedded-Optimized GGUF Format, Secure & Watermarked Output
 - Reasons for recommendation: Super-realistic, on-device text-to-speech (TTS) language model with instant voice cloning.
+
+### Orpheus TTS
+- Added at 2025-12-02
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Troyanovsky/awesome-TTS-Colab/blob/main/Orpheus_TTS.ipynb)
+- [GitHub Link](https://github.com/canopyai/Orpheus-TTS)
+- [Model Link](https://huggingface.co/canopylabs/orpheus-3b-0.1-ft)
+- Capabilities: Text-to-speech, Human-Like Expressive Speech, Zero-Shot Voice Cloning, Guided Emotion & Intonation Tags, Low-Latency Streaming
+- Languages supported: English
+- Voices: Multiple preset speaker options (tara, leah, jess, leo, dan, mia, zac, zoe)
+- Reasons for recommendation: Small LLM-based model, highly expressive, human-like voice generation with zero-shot voice cloning.
 
 
 ## 📊 Picking TTS Models?

@@ -123,6 +123,14 @@ Whether you're experimenting, researching, or just playing around with voice syn
 - Voices: Multiple preset speaker options (tara, leah, jess, leo, dan, mia, zac, zoe)
 - Reasons for recommendation: Small LLM-based model, highly expressive, human-like voice generation with zero-shot voice cloning.
 
+### Supertonic TTS
+- Added at 2025-12-05
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Troyanovsky/awesome-TTS-Colab/blob/main/Supertonic_TTS.ipynb)
+- [GitHub Link](https://github.com/supertone-inc/supertonic)
+- [Model Link](https://huggingface.co/Supertone/supertonic)
+- Capabilities: Text-to-speech, Predefined Voices, Extreme-Speed Inference, Lightweight Deployment, Natural Text Handling, Fully Local Processing
+- Reason for recommendation: Ultra-lightweight (66M parameters), lightning-fast even on CPU with decent quality, privacy-safe on-device processing.
+
 
 ## 📊 Picking TTS Models?
 

@@ -131,6 +131,15 @@ Whether you're experimenting, researching, or just playing around with voice syn
 - Capabilities: Text-to-speech, Predefined Voices, Extreme-Speed Inference, Lightweight Deployment, Natural Text Handling, Fully Local Processing
 - Reason for recommendation: Ultra-lightweight (66M parameters), lightning-fast even on CPU with decent quality, privacy-safe on-device processing.
 
+### GLM TTS
+- Added at 2025-12-15
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Troyanovsky/awesome-TTS-Colab/blob/main/GLM_TTS.ipynb)
+- [GitHub Link](https://github.com/zai-org/GLM-TTS)
+- [Model Link](https://huggingface.co/zai-org/GLM-TTS)
+- Capabilities: Text-to-speech, Zero-Shot Voice Cloning, RL-Enhanced Emotion Control, Streaming Real-Time Synthesis, Phoneme-Level Control
+- Languages supported: English, Chinese, Mixed Language (En/Zh)
+- Reason for recommendation: LLM-powered TTS with zero-shot voice cloning, RL-tuned emotion control, and streaming capabilities for interactive applications.
+
 
 ## 📊 Picking TTS Models?
 

@@ -140,6 +140,15 @@ Whether you're experimenting, researching, or just playing around with voice syn
 - Languages supported: English, Chinese, Mixed Language (En/Zh)
 - Reason for recommendation: LLM-powered TTS with zero-shot voice cloning, RL-tuned emotion control, and streaming capabilities for interactive applications.
 
+### Soprano TTS
+- Added at 2025-12-30
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Troyanovsky/awesome-TTS-Colab/blob/main/Soprano_TTS.ipynb)
+- [GitHub Link](https://github.com/ekwek1/soprano)
+- [Model Link](https://huggingface.co/ekwek/Soprano-80M)
+- Capabilities: Text-to-speech, Ultra-Fast Real-Time TTS, 32 kHz High-Fidelity Audio, Streaming Inference, Lightweight Deployment, Open-Source
+- Languages supported: English
+- Reason for recommendation: Ultra-lightweight (80M parameters), extremely fast (~2000× RTF) with streaming synthesis and sub-frame latency for real-time applications.
+
 
 ## 📊 Picking TTS Models?
 

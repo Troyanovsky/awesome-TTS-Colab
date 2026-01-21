@@ -149,6 +149,15 @@ Whether you're experimenting, researching, or just playing around with voice syn
 - Languages supported: English
 - Reason for recommendation: Ultra-lightweight (80M parameters), extremely fast (~2000× RTF) with streaming synthesis and sub-frame latency for real-time applications.
 
+### Pocket TTS
+- Added at 2025-12-30
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Troyanovsky/awesome-TTS-Colab/blob/main/Pocket_TTS.ipynb)
+- [GitHub Link](https://github.com/kyutai-labs/pocket-tts)
+- [Model Link](https://huggingface.co/kyutai/pocket-tts)
+- Capabilities: CPU-Based Speech Generation, Voice Cloning, Instant Audio Streaming, Low Latency (~200ms), Faster Than Real-Time (~6x), Python API and CLI, Handles Long Text Inputs
+- Languages supported: English
+- Reason for recommendation: Ultra-lightweight (100M parameters), CPU-optimized with ultra-low latency (~200ms) for real-time applications on resource-constrained devices.
+
 
 ## 📊 Picking TTS Models?
 

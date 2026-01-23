@@ -158,6 +158,16 @@ Whether you're experimenting, researching, or just playing around with voice syn
 - Languages supported: English
 - Reason for recommendation: Ultra-lightweight (100M parameters), CPU-optimized with ultra-low latency (~200ms) for real-time applications on resource-constrained devices.
 
+### Qwen3 TTS
+- Added at 2025-12-30
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Troyanovsky/awesome-TTS-Colab/blob/main/Qwen3_TTS.ipynb)
+- [Official Blog](https://qwen.ai/blog)
+- [Model Link (0.6B)](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-0.6B-Base)
+- [Model Link (1.7B)](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-Base)
+- Capabilities: Multilingual TTS, Ultra-Low-Latency Streaming (~97ms), Instruction-Based Voice Control, Rapid 3s Voice Cloning, High-Fidelity Speech Reconstruction
+- Languages supported: Chinese, English, Japanese, Korean, German, French, Russian, Portuguese, Spanish, Italian
+- Reason for recommendation: End-to-end discrete LM architecture with extreme low-latency generation, instruction-aware speech synthesis, and strong robustness to noisy or complex text inputs.
+
 
 ## 📊 Picking TTS Models?
 
